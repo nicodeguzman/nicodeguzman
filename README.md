@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicodeguzman
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...mysql
+- 🌱 I’m currently learning ...js
 - 💞️ I’m looking to collaborate on ...everything
 - 📫 How to reach me ...
 
